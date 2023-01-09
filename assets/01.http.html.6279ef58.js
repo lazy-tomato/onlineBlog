@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-dbc253f8","path":"/interView/%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92/01.http.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[{"name":"tomato","email":"6559210+lazy_tomato@user.noreply.gitee.com","commits":1}]},"filePathRelative":"interView/前后端交互/01.http.md"}');export{t as data};

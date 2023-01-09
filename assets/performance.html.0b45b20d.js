@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0b523bac","path":"/up/16.%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/performance.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[{"name":"tomato","email":"6559210+lazy_tomato@user.noreply.gitee.com","commits":1}]},"filePathRelative":"up/16.性能优化/performance.md"}');export{e as data};

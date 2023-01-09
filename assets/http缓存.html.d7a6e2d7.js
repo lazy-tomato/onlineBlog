@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c30e871c","path":"/up/19.http%EF%BC%88%E5%BE%85%E5%AE%8C%E5%96%84%EF%BC%89/http%E7%BC%93%E5%AD%98.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[{"name":"tomato","email":"6559210+lazy_tomato@user.noreply.gitee.com","commits":1}]},"filePathRelative":"up/19.http（待完善）/http缓存.md"}');export{t as data};

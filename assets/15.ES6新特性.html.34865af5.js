@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1814c474","path":"/interView/02.JavaScript/15.ES6%E6%96%B0%E7%89%B9%E6%80%A7.html","title":"ES6 新特性","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"举例说明","slug":"举例说明","link":"#举例说明","children":[]}],"git":{"contributors":[]},"filePathRelative":"interView/02.JavaScript/15.ES6新特性.md"}');export{t as data};

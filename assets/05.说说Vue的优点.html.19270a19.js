@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-06184dd3","path":"/interView/06.Vue/05.%E8%AF%B4%E8%AF%B4Vue%E7%9A%84%E4%BC%98%E7%82%B9.html","title":"说说 Vue 的优点","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"解释：","slug":"解释","link":"#解释","children":[]}],"git":{"contributors":[]},"filePathRelative":"interView/06.Vue/05.说说Vue的优点.md"}');export{e as data};

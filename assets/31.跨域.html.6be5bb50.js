@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c80aa8aa","path":"/interView/02.JavaScript/31.%E8%B7%A8%E5%9F%9F.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[]},"filePathRelative":"interView/02.JavaScript/31.跨域.md"}');export{t as data};

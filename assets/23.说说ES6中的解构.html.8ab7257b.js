@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-18a3fd25","path":"/interView/02.JavaScript/23.%E8%AF%B4%E8%AF%B4ES6%E4%B8%AD%E7%9A%84%E8%A7%A3%E6%9E%84.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[]},"filePathRelative":"interView/02.JavaScript/23.说说ES6中的解构.md"}');export{t as data};
