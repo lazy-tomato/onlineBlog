@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6ff0be67","path":"/interView/","title":"面试宝典","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[{"name":"tomato","email":"6559210+lazy_tomato@user.noreply.gitee.com","commits":2}]},"filePathRelative":"interView/README.md"}');export{e as data};

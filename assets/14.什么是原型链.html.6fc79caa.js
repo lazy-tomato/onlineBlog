@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-af7ac05c","path":"/interView/02.JavaScript/14.%E4%BB%80%E4%B9%88%E6%98%AF%E5%8E%9F%E5%9E%8B%E9%93%BE.html","title":"什么是原型链？","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"解释：","slug":"解释","link":"#解释","children":[]}],"git":{"contributors":[]},"filePathRelative":"interView/02.JavaScript/14.什么是原型链.md"}');export{t as data};

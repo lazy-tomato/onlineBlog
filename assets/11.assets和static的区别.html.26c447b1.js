@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-931c3662","path":"/interView/06.Vue/11.assets%E5%92%8Cstatic%E7%9A%84%E5%8C%BA%E5%88%AB.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[]},"filePathRelative":"interView/06.Vue/11.assets和static的区别.md"}');export{t as data};

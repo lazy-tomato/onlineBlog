@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _,a as o}from"./app.acfc35a6.js";const c={},s=o("p",null,"https://zhuanlan.zhihu.com/p/149734572?from_voters_page=true",-1),n=[s];function a(r,l){return t(),_("div",null,n)}const u=e(c,[["render",a],["__file","31.跨域.html.vue"]]);export{u as default};

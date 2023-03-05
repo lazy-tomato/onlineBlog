@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7886899a","path":"/interView/02.JavaScript/24.%E8%AF%B4%E8%AF%B4%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E5%8E%9F%E5%9E%8B%20prototype.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[]},"filePathRelative":"interView/02.JavaScript/24.说说构造函数原型 prototype.md"}');export{t as data};

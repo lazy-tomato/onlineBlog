@@ -1,0 +1,1 @@
+import{_,o as e,c,a as t}from"./app.acfc35a6.js";const o={},s=t("p",null,"图片优化 优化 sourcemap 文件 路由懒加载 cdn 引入公共库 GZIP 压缩",-1),n=[s];function a(r,l){return e(),c("div",null,n)}const f=_(o,[["render",a],["__file","13.优化首屏加载.html.vue"]]);export{f as default};

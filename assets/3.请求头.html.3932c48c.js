@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6a9b7ed5","path":"/up/19.http/3.%E8%AF%B7%E6%B1%82%E5%A4%B4.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"正文","slug":"正文","link":"#正文","children":[]}],"git":{"contributors":[{"name":"sun","email":"wanqing.sun@definesys.com","commits":1}]},"filePathRelative":"up/19.http/3.请求头.md"}');export{t as data};

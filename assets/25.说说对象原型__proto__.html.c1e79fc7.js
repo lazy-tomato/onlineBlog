@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-30e45de2","path":"/interView/02.JavaScript/25.%E8%AF%B4%E8%AF%B4%E5%AF%B9%E8%B1%A1%E5%8E%9F%E5%9E%8B__proto__.html","title":"说说对象原型proto","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[]},"filePathRelative":"interView/02.JavaScript/25.说说对象原型__proto__.md"}');export{t as data};

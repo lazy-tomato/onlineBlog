@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as n}from"./app.acfc35a6.js";const o={},r=e("h1",{id:"记录自己的成长",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#记录自己的成长","aria-hidden":"true"},"#"),n(" 记录自己的成长")],-1),s=[r];function _(d,i){return a(),c("div",null,s)}const l=t(o,[["render",_],["__file","index.html.vue"]]);export{l as default};
